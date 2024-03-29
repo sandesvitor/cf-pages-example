@@ -4,7 +4,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Fala, Zé!
+        <h1>Fala, Zé!</h1>
+        <h2>Esse é um exemplo de Deploy de uma app React na Cloudflare Pages</h2>
       </header>
     </div>
   );
